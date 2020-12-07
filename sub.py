@@ -15,7 +15,7 @@ debug = False
 
 # 忽略网站的证书错误，这很不安全 :(
 verify_cert = False
-
+ 
 # 全局变量
 user = "USERNAME"
 passwd = "PASSWORD"
